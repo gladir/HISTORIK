@@ -12,7 +12,7 @@ Voici la liste des différents fichiers proposés dans HISTORIK :
   </tr>
   <tr>
       <td><b>CITY.PAS</b></td>
-      <td>Cette commande permet d'indiquer le nom complet d'une abréviation.</td>
+      <td>Cette commande permet d'indiquer la date de fondation d'une ville.</td>
   </tr>  
  </table>
 
