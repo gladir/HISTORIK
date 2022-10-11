@@ -14,6 +14,10 @@ Voici la liste des différents fichiers proposés dans HISTORIK :
       <td><b>CITY.PAS</b></td>
       <td>Cette commande permet d'indiquer la date de fondation d'une ville.</td>
   </tr>  
+  <tr>
+      <td><b>OLDFR.PAS</b></td>
+      <td>Cette commande permet de convertir du vieux français (français moyen) en français moderne.</td>
+  </tr>  
  </table>
 
 <h2>Compilation</h2>
