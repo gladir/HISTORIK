@@ -20,7 +20,7 @@ Voici la liste des différents fichiers proposés dans HISTORIK :
   </tr> 
   <tr>
       <td><b>OLDFR.PAS</b></td>
-      <td>Cette commande permet de convertir du vieux français (français moyen) en français moderne.</td>
+      <td>Cette commande permet de convertir du vieux français (français moyen, comme par exemple des textes écrit par Voltaire et Nostradamus) en français moderne.</td>
   </tr>  
  </table>
 
