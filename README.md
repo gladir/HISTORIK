@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans HISTORIK :
     <th>Description</th>
   </tr>
   <tr>
+	<td><b>CESAR.PAS</b></td>
+	<td>Cette commande permet d'encrypter ou décrypter une chaîne de caractères selon la méthode du chiffre de César.</td>
+ </tr>
+  <tr>
       <td><b>CITY.PAS</b></td>
       <td>Cette commande permet d'indiquer la date de fondation d'une ville.</td>
   </tr> 
