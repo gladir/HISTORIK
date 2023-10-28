@@ -508,9 +508,8 @@ BEGIN
   WriteLn('OLDFR : Cette commande permet de convertir du vieux '+
                    'fran‡ais en fran‡ais moderne.');
   WriteLn;
-  WriteLn('Syntaxe : OLDFR [/ENGLISH] "message"');
-  WriteLn('          OLDFR [/FRENCH] "message"');
-  WriteLn('          OLDFR [/FRENCH] /FILE:fichier');
+  WriteLn('Syntaxe : OLDFR "message"');
+  WriteLn('          OLDFR /FILE:fichier');
  End
   Else
  If ParamCount>0Then Begin
