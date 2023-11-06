@@ -13,15 +13,16 @@ Type
   Ville:PChar;
   AnneeFondation:Word;
   Fondateur:PChar;
-  Region:(_Canada,_EtatsUnis,_Perou,_Russie);
+  Region:(_Canada,_EtatsUnis,_Japan,_Perou,_Russie);
  End;
 
 Const
- Cities:Array[0..7]of CityRecord=(
+ Cities:Array[0..8]of CityRecord=(
   (Ville:'Alma';AnneeFondation:1867;Fondateur:'Damase Boulanger';Region:_Canada),
   (Ville:'Montr‚al';AnneeFondation:1642;
    Fondateur:'Paul de Chomedey de Maisonneuve et Jeanne Mance';
    Region:_Canada),
+  (Ville:'Kyoto';AnneeFondation:794;Fondateur:'';Region:_Japan),
   (Ville:'Lima';AnneeFondation:1535;Fondateur:'Francisco Pizarro';Region:_Perou),
   (Ville:'New-York';AnneeFondation:1624;Fondateur:NIL;Region:_EtatsUnis),
   (Ville:'Qu‚bec';AnneeFondation:1608;Fondateur:'Samuel de Champlain';Region:_Canada),
