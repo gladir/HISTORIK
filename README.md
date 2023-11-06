@@ -18,6 +18,10 @@ Voici la liste des différents fichiers proposés dans HISTORIK :
       <td><b>CITY.PAS</b></td>
       <td>Cette commande permet d'indiquer la date de fondation d'une ville.</td>
   </tr> 
+	<tr>
+			<td><b>MORSE.PAS</b></td>
+			<td>Cette commande permet d'écrire en code Morse la chaîne de caractères spécifié.</td>
+		</tr>
   <tr>
       <td><b>ROMAN.PAS</b></td>
       <td>Cette commande permet de convertir un nombre en un nombre romain et vice verca.</td>
